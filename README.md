@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- ☀️ ❄️ ☁️  I work with the Meteorological Service of Canada (Toronto, Ontario, Canada) 🇨🇦
+- ☀️ ❄️ ☁️  I'm a Senior Geospatial Architect ✏️📏 📐with the Meteorological Service of Canada (Toronto, Ontario, Canada) 🇨🇦
 - 🎓 I am a geographer by training and hold a Masters degree in Geographic Information Systems from Carleton University (Ottawa, Ontario, Canada) 🇨🇦
   - 🏫 My [research/dissertation](https://kralidis.ca/gis/masters/thesis) focused on Geospatial Web Services and Geospatial Data Infrastructure 
 - 🗺️ I'm interested in geospatial data sharing, software and standards
