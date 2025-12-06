@@ -15,9 +15,5 @@
 
 [![Personal Site](https://img.shields.io/badge/Personal%20Site-grey?logo=github&style=flat-square&link=https://kralidis.ca)](https://kralidis.ca)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square&link=https://www.linkedin.com/in/tomkralidis)](https://www.linkedin.com/in/tomkralidis)
-[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?logo=twitter&logoColor=white&style=flat-square&link=https://twitter.com/tomkralidis)](https://twitter.com/tomkralidis)
 <a rel="me" href="https://noc.social/@tomkralidis"><img src="https://img.shields.io/mastodon/follow/109308105930670990?domain=https%3A%2F%2Fnoc.social&style=social"/></a>
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftomkralidis&count_bg=%2379C83D&title_bg=%23555555&title=hits&edge_flat=true)](https://github.com/tomkralidis)
-
-
-[![stats](https://github-readme-stats.vercel.app/api?username=tomkralidis&theme=vue&show_icons=true&hide_border=true)](https://github.com/tomkralidis)
+[![GitHub followers](https://img.shields.io/github/followers/tomkralidis)](https://github.com/tomkralidis)
